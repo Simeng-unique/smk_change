@@ -3,14 +3,19 @@ This is for Simeng's alterations. [^RUNOOB]
 [^RUNOOB]: Simeng: A marvel. 
 
 # Directory
-***GRIDMASK\_oneChina.nc***: $SMKDAT/ge\_dat/EDGAR/
+* ***GRIDMASK\_oneChina.nc***: $SMKDAT/ge\_dat/EDGAR/
 
-***atref\_edgar.txt***: $SMKDAT/ge\_dat/EDGAR/
-***gsref.edgar.txt***: $SMKDAT/ge\_dat/EDGAR/
-***invtable\_hapcap\_cb05soa.txt***: $SMKDAT/inventory/*your_case*/other/
-*test\_meic.csh*: $SMKROOT/scripts/run/
-*ver\_layalloc.csh*: $SMKROOT/scripts/run/
-*layer_fraction.txt*: $SMKROOT/scripts/run/
+* ***atref\_edgar.txt***: $SMKDAT/ge\_dat/EDGAR/
+
+* ***gsref.edgar.txt***: $SMKDAT/ge\_dat/EDGAR/
+
+* ***invtable\_hapcap\_cb05soa.txt***: $SMKDAT/inventory/*your_case*/other/
+
+* *test\_meic.csh*: $SMKROOT/scripts/run/
+
+* *ver\_layalloc.csh*: $SMKROOT/scripts/run/
+
+* *layer_fraction.txt*: $SMKROOT/scripts/run/
 
 *change_bcon.py* was used to change the boundary conditions of the outputs of CAM-Chem.
 The detailed information can be found in the comments of the python script.
