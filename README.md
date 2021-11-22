@@ -4,15 +4,17 @@ This is for Simeng's alterations. [^RUNOOB]
 
 # File Path
 
-| File  | Directory|
+| File  | Directory |
 | :---- | :---- |
 | ***GRIDMASK\_oneChina.nc*** | $SMKDAT/ge\_dat/EDGAR/ |
 | ***atref\_edgar.txt*** | $SMKDAT/ge\_dat/EDGAR/ |
 | ***gsref.edgar.txt*** | $SMKDAT/ge\_dat/EDGAR/ |
 | ***invtable\_hapcap\_cb05soa.txt*** | $SMKDAT/inventory/*your_case*/other/ |
+| *area_each_grid.txt* | /your/python/script/ |
 | *test\_meic.csh* | $SMKROOT/scripts/run/ |
 | *ver\_layalloc.csh* | $SMKROOT/scripts/run/ |
 | *layer_fraction.txt* | $SMKROOT/scripts/run/ |
+
 
 # File Functions
 
@@ -23,6 +25,8 @@ This is for Simeng's alterations. [^RUNOOB]
 * ***gsref.edgar.txt***: For speciation of emissions.
 
 * ***invtable\_hapcap\_cb05soa.txt***: Stop asking. Just add that. 
+
+* *area_each_grid.txt*: Area of each cell, read by the Python script *not_showing_here.py*. 
 
 * *test\_meic.csh*: Run script, for reference only.
 
