@@ -4,8 +4,8 @@ This is for Simeng's alterations. [^RUNOOB]
 
 # Directory
 
-| File | Directory|
-| ---- | ---- |
+| File  | Directory|
+| :---- | :---- |
 | ***GRIDMASK\_oneChina.nc*** | $SMKDAT/ge\_dat/EDGAR/ |
 | ***atref\_edgar.txt*** | $SMKDAT/ge\_dat/EDGAR/ |
 | ***gsref.edgar.txt*** | $SMKDAT/ge\_dat/EDGAR/ |
