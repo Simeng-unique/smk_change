@@ -18,7 +18,7 @@ This is for Simeng's alterations. [^RUNOOB]
 
 # File Functions
 
-* ***GRIDMASK\_oneChina.nc***: Describe the country and the timezone. China map has been completed. 
+* ***GRIDMASK\_oneChina.nc***: Describe the country and the timezone. The map of China has been completed. **Adhere to the One-China Principle !**
 
 * ***atref\_edgar.txt***: Describe the temporal allocation for the different types of emissions. 
 
@@ -33,6 +33,8 @@ This is for Simeng's alterations. [^RUNOOB]
 * *ver\_layalloc.csh*: For vertical allocation. 
 
 * *layer_fraction.txt*: Describe the vertical allocation. 
+
+----------
 
 If you have any questions or want to gain more information,
 Please reach Simeng: ***simeng.li@nuist.edu.cn*** or ***simeng\_li@qq.com*** .
