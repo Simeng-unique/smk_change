@@ -11,6 +11,7 @@ This is for Simeng's alterations. [^RUNOOB]
 | ***gsref.edgar.txt*** | $SMKDAT/ge\_dat/EDGAR/ |
 | ***invtable\_hapcap\_cb05soa.txt*** | $SMKDAT/inventory/*your_case*/other/ |
 | *area_each_grid.txt* | /your/python/script/ |
+| *ASSIGNS.test_MEIC* | $SMKROOT/assigns/ |
 | *test\_meic.csh* | $SMKROOT/scripts/run/ |
 | *ver\_layalloc.csh* | $SMKROOT/scripts/run/ |
 | *layer_fraction.txt* | $SMKROOT/scripts/run/ |
@@ -18,15 +19,17 @@ This is for Simeng's alterations. [^RUNOOB]
 
 # File Functions
 
-* ***GRIDMASK\_oneChina.nc***: Describe the country and the timezone. The map of China has been completed. **Adhere to the One-China Principle !**
+* ***GRIDMASK\_oneChina.nc***: Describes the country and the timezone. The map of China has been completed. **Adhere to the One-China Principle !**
 
-* ***atref\_edgar.txt***: Describe the temporal allocation for the different types of emissions. 
+* ***atref\_edgar.txt***: Describes the temporal allocation for the different types of emissions. 
 
 * ***gsref.edgar.txt***: For speciation of emissions.
 
 * ***invtable\_hapcap\_cb05soa.txt***: Stop asking. Just add that. 
 
 * *area_each_grid.txt*: Area of each cell, read by the Python script *not_showing_here.py*. 
+
+* *ASSIGNS.test_MEIC*: Assigns file, for reference only.
 
 * *test\_meic.csh*: Run script, for reference only.
 
