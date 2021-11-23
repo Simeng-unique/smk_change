@@ -1,6 +1,6 @@
 # Files in SMOKE
 This is for Simeng's alterations. [^RUNOOB]
-[^RUNOOB]: Simeng: A marvel. 
+[^RUNOOB]: Simeng: A marvelous woman. No, a marvelous girl.
 
 # File Path
 
