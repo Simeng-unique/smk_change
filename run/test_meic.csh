@@ -27,7 +27,7 @@ setenv MRG_SOURCE    A          # source category to merge
 
 ## Time-independent programs
 setenv RUN_CNTLMAT   N          # run control and growth matrix program
-setenv RUN_SMKINVEN  Y          # run inventory import program
+setenv RUN_SMKINVEN  N          # run inventory import program
 setenv RUN_SPCMAT    Y          # run speciation matrix program
 setenv RUN_GRDMAT    Y          # run gridding matrix program
 
@@ -75,7 +75,7 @@ setenv ALLOW_NEGATIVE       N   # Y allow negative output emission data
 #      REPORT_DEFAULTS  see "Multiple-program controls" below
 
 ## For Spcmat
-setenv POLLUTANT_CONVERSION N   # Y uses the GSCNV pollutant conversion file
+setenv POLLUTANT_CONVERSION Y   # Y uses the GSCNV pollutant conversion file
 #      REPORT_DEFAULTS  see "Multiple-program controls" below
 
 ## For Temporal
