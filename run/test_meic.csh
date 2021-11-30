@@ -33,9 +33,9 @@ setenv RUN_GRDMAT    Y          # run gridding matrix program
 
 
  if ( ($RUN_SMKINVEN == Y ) ) then
-   rm -r /nuist/scratch/pb02005030/lism/v47_smoke/data/run_$ABASE
-   rm -r /nuist/scratch/pb02005030/lism/v47_smoke/data/run_$INVOP
-   rm -r /nuist/scratch/pb02005030/lism/v47_smoke/data/inventory/$INVOP
+   rm -r $SMKDAT/run_$ABASE
+   rm -r $SMKDAT/run_$INVOP
+   rm -r $SMKDAT/inventory/$INVOP
  endif
 
 
