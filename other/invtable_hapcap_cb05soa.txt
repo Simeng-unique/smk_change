@@ -591,3 +591,5 @@ NAPHTH_72       NAPHTH_72          611   Y    1.0  Y   N     tons/yr            
 NAPHTH_72       91203_72           611   Y    1.0  Y   N     tons/yr          Naphthalene Exhaust from MOVES at 72 F                                          !Keep set to N for MP-lite v4.71 (N3c)=LDGHG, but to Y for V4.7 N1e=HDGHG
 ETHA            ETHA                     Y    1.0  Y   N     tons/yr          Ethane
 ETOH            ETOH                     Y    1.0  Y   N     tons/yr          Ethanol
+EC2_5           EC2_5                    Y    1.0  Y   N     tons/yr          EC
+OC2_5           OC2_5                    Y    1.0  Y   N     tons/yr          OC
