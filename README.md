@@ -10,8 +10,9 @@ This is for Simeng's alterations. [^RUNOOB]
 | ***atref\_edgar.txt*** | $SMKDAT/ge\_dat/EDGAR/ |
 | ***gsref.edgar.txt*** | $SMKDAT/ge\_dat/EDGAR/ |
 | ***invtable\_hapcap\_cb05soa.txt*** | $SMKDAT/inventory/*your_case*/other/ |
+| ***gspro.cmaq_cb05_soa.txt*** | $SMKDAT/ge\_dat |
 | *area_each_grid.txt* | /your/python/script/ |
-| *GC_cb05e51_ae6_aq.nml* | /your/python/script/ |
+| *rd_mole_weight.txt* | /your/python/script/ |
 | *ASSIGNS.test_MEIC* | $SMKROOT/assigns/ |
 | *test\_meic.csh* | $SMKROOT/scripts/run/ |
 | *ver\_layalloc.csh* | $SMKROOT/scripts/run/ |
@@ -28,9 +29,11 @@ This is for Simeng's alterations. [^RUNOOB]
 
 * ***invtable\_hapcap\_cb05soa.txt***: Stop asking. Just add that. 
 
+* ***gspro.cmaq_cb05_soa.txt***: For the speciation. 
+
 * *area_each_grid.txt*: Area of each cell, read by the Python script *not_showing_here.py*. 
 
-* *GC_cb05e51_ae6_aq.nml*: Contained mole masses of each species, read by the Python script *not_showing_here.py*. This one was copied from *CMAQ/CCTM/src/MECHS/cb05e51\_ae6\_aq*.
+* *rd_mole_weight.txt*: Contained mole masses of each species, read by the Python script *not_showing_here.py*. 
 
 * *ASSIGNS.test_MEIC*: Assigns file, for reference only.
 
