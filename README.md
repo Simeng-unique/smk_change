@@ -1,3 +1,5 @@
+This is used for inputting MEIC emissions into SMOKE, based on the readable EDGAR files. 
+
 # Files in SMOKE
 This is for Simeng's alterations. [^RUNOOB]
 [^RUNOOB]: Simeng: A marvelous female. 
