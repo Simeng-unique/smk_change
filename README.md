@@ -1,6 +1,6 @@
 # Files in SMOKE
 This is for Simeng's alterations. [^RUNOOB]
-[^RUNOOB]: Simeng: A marvelous woman. No, a marvelous girl.
+[^RUNOOB]: Simeng: A marvelous female. 
 
 # File Path
 
@@ -46,4 +46,7 @@ This is for Simeng's alterations. [^RUNOOB]
 ----------
 
 If you have any questions or want to gain more information,
-Please reach Simeng: ***simeng.li@nuist.edu.cn*** or ***simeng\_li@qq.com*** .
+Please reach Simeng: ***s.li@cml.leidenuniv.nl*** or ***simeng.li.unique@gmail.com*** .
+
+- Update on 10 May, 2023
+Since Simeng no longer has the access of those files, further questions please reach Le Cao: ***le.cao@nuist.edu.cn***
